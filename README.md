@@ -4,7 +4,7 @@
 # 👽 About Me:
 <br>Desarollador Jr.<br><br>Ingeniero en Sistemas Computacionales con más de un año de experiencia en<br>desarrollo de software. Orientado hacia la mejora de la productividad y la<br>obtención de resultados, he participado en proyectos que requieren un enfoque<br>eficiente.
 
-![Red Social](https://img.shields.io/badge/Red%20Social-%23FF5733?style=for-the-badge&logo=Social&logoColor=white)
+[![Red Social](https://img.shields.io/badge/Red%20Social-%2342f54b?style=for-the-badge&logo=Social&logoColor=white)](https://bio.site/gaelflores)
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
