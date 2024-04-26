@@ -25,7 +25,7 @@
 3. ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 4. ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 5. ![MAUI](https://img.shields.io/badge/MAUI-%238435F9.svg?style=for-the-badge&logo=.NET&logoColor=white)
-<!-- 5. ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -->
+6. ![Ionic](https://img.shields.io/badge/Ionic-%233879FF.svg?style=for-the-badge&amp;logo=ionic&amp;logoColor=white) 
 
 ### Bases de Datos:
 1. ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
