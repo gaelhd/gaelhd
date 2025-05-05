@@ -2,5 +2,5 @@
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me
 ### <b>Desarollador Jr.<b/> <br>
-#### Con mas de 1 año de experiencia en desarollo de software.
+#### Con mas de 2 año de experiencia en desarollo de software.
 
